@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 6.Start the Laravel development server:
     ```bash
-   php artisan serve
+    php artisan serve
 
 
 ### Usage:
