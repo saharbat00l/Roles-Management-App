@@ -47,9 +47,9 @@ Before you begin, ensure you have met the following requirements:
    php artisan migrate --seed
 
 
-6.Start the Laravel development server:
-    ```bash
-    php artisan serve
+6. Start the Laravel development server:
+   ```bash
+   php artisan serve
 
 
 ### Usage:
