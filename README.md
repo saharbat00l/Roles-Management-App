@@ -32,23 +32,23 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/seharbat00l/Roles-Management-App.git
 
 2. Navigate to your project directory:
-
+   ```bash
    cd your-laravel-roles-app
 
 
 3. Install PHP dependencies using Composer:
-
+   ```bash
    composer install
 
 4. Configure your .env file with the necessary database and other settings.
 
 5. Run migrations and seed the database:
-
+   ```bash
    php artisan migrate --seed
 
 
 6.Start the Laravel development server:
-
+    ```bash
    php artisan serve
 
 
