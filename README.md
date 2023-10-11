@@ -20,7 +20,7 @@ This Laravel application is designed to manage roles and permissions for your we
 
 Before you begin, ensure you have met the following requirements:
 
-- [Laravel](https://laravel.com/docs) (>= 8.x)
+- [Laravel10](https://laravel.com/docs) 
 - [Composer](https://getcomposer.org/)
 - [FilamentPHP](https://filamentadmin.com/)
 
@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Navigate to your project directory:
    ```bash
-   cd your-laravel-roles-app
+   cd roles-management-app
 
 
 3. Install PHP dependencies using Composer:
